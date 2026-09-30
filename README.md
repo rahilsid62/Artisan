@@ -157,12 +157,6 @@ npm run lint       # Run ESLint
 - **MongoDB** for the database solution
 - **React** community for the amazing ecosystem
 
-## 📞 Support
-
-For support and questions, please contact:
-- Email: support@craftconnect.com
-- GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
-
 ---
 
 **ArtisanMArket** - Supporting local artisans and preserving traditional crafts through our online marketplace. 🛠️✨
